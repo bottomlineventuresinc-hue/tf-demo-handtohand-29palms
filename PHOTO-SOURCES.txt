@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-075-handtohand Hand To Hand Contracting (Wave 16 2026-10-02 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 16 files: see builds/_assets_dl/wave16/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave16/build6-wall-frame.jpg : Interior wall framed, plans on the floor (rawpixel CC0 1.0 https://www.rawpixel.com/image/9677375/construction-site)
+services-trade.jpg <- wave16/build6-frame-bw.jpg : Wall and roof framing going up on a bare site, black and white (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Garage_Wall_Studding_-_DPLA_-_0464c326e9198f6a25df0c322c1f77a0.jpg)
+people-crew.jpg <- wave16/build6-cover-cars.jpg : Long covered parking structure (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/12236639@N08/48216349556)
+people-marek.jpg <- wave16/build6-room-old.jpg : Old room with worn walls and a bare floor, black and white, before new work (wikimedia Public domain https://commons.wikimedia.org/wiki/File:REAR_WALL_OF_FRAME_ADDITION_-_Carrithers-Cochran_House,_Carrithers_Lane,_Taylorsville,_Spencer_County,_KY_HABS_KY,108-TAYVI.V,1-5.tif)
+people-tom.jpg <- wave16/build6-house-deck.jpg : White house with a raised wood deck beside the drive (flickr CC0 1.0 https://www.flickr.com/photos/194286549@N03/51642498043)
+coverage-house.jpg <- wave11/house-stucco-ie.jpg : stucco single-story home, Southwest style (StockSnap CC0 L9VZ6SOGBB)
+build6-window-old.jpg <- wave16/build6-window-old.jpg : Old wood window in a worn wall, before new work (wikimedia CC0 1.0 https://commons.wikimedia.org/wiki/File:Wooden_Door_and_old_windows_of_House_-_South_Ferdowsi_st_-_Nishapur_6.JPG)
+build6-window-new.jpg <- wave16/build6-window-new.jpg : New white window, seen from inside (stocksnap CC0 1.0 https://stocksnap.io/photo/white-window-LMUGL3LQ7X)
+build6-deck-frame.jpg <- wave16/build6-deck-frame.jpg : Wood deck frame set over old concrete, before boards go on (flickr CC0 1.0 https://www.flickr.com/photos/71401718@N00/6014688899)
+build6-deck-done.jpg <- wave16/build6-deck-done.jpg : Finished wood deck with a rail and a view (stocksnap CC0 1.0 https://stocksnap.io/photo/porch-deck-93B4A12AD0)
+build6-slab-court.jpg <- wave16/build6-slab-court.jpg : Concrete patio slab inside a stucco courtyard wall (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Harvey_Sutton_House_NW_addition_3.JPG)
+build6-cover-beams.jpg <- wave16/build6-cover-beams.jpg : Open beam cover seen from below (stocksnap CC0 1.0 https://stocksnap.io/photo/outdoor-patio-K3I9NUCRFT)
+
+Note: General contractor: wave16 set (build6), no person in any photo, one photo per packet permit service (windows and doors, patio cover and slab, room addition, carport, wood deck, interior walls). Services are the packet's permit records plus general building; the platform-written about text and generic remodel tags are NOT used, and the one non-residential permit is not shown. CEO call: no personal name anywhere, only the business wordmark and 'the owner'. The packet's no-DNS names are NOT used or linked, and no domain appears on the page. The older directory address and the third-party phone in the packet are NOT used. Another lead this wave is in the same town: no photo is shared between the two pages.
